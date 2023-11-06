@@ -1,1 +1,1 @@
-# web_project
+# Loan Management Project
